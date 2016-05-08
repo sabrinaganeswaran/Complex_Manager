@@ -1,0 +1,55 @@
+#h2 {
+	color: white;
+}
+
+body {
+    background-image: url(http://blogs.crdp-limousin.fr/87-chateauponsac-college-timbal-maths/files/2014/02/maths-469x239.jpg);
+	/*background-repeat: no-repeat;*/
+    width: 100%;
+    text-align: center;
+}
+/*D*/
+#e1{
+	display: inline;
+	margin-left: 300px;
+	margin-right: 100px;
+	margin-bottom: 100px;
+	position: relative; 
+	top: 169px;
+
+}
+
+
+/* FORMULAIRE */
+form
+{
+	background-color: Gainsboro;
+	border-style: solid;
+	border-color: black;
+	margin-left: 500px;
+	margin-right: 500px;
+	text-align: center;
+	font-size: 12px;
+}
+
+#titlemain
+{
+	background-color: #A9E2F3;
+	border-style: solid;
+	border-color: #0B4C5F;
+	border-width: 1px 3px;
+	font-size: 50px;
+	margin-right: 400px;
+	margin-left: 400px;
+	text-align: center;
+	}
+
+#id2
+{
+	margin-top: -13px;
+}
+
+#id3
+{
+	margin-top: -13px;
+}

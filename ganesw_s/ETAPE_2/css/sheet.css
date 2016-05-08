@@ -1,0 +1,63 @@
+#h2 {
+	color: white;
+}
+
+body {
+     background-image: url(http://i01.i.aliimg.com/wsphoto/v0/32224705619/Be-Rational-Get-font-b-Real-b-font-Pi-and-Imaginary-Numbers-NEW-font-b-Funny.jpg);
+    background-repeat: no-repeat;
+   background-color: rgba(140, 139, 141, 0.4);
+    background-size: 100% 60%;
+    width: 100%;
+    text-align: center;
+}
+
+/*ID1*/
+#e1{
+	/*display: inline;*/
+	margin-left: 25px;
+	margin-right:100px;
+	margin-bottom: 200px;
+	position: relative; 
+	top: 262px;
+	left: -24px; 
+
+}
+
+
+/* FORMULAIRE */
+form
+{
+	background-color: Gainsboro;
+	border-style: solid;
+	border-color: black;
+	margin-left: 500px;
+	margin-right: 500px;
+	text-align: center;
+	font-size: 12px;
+}
+
+#titlemain
+{
+	background-color: #A9E2F3;
+	border-style: solid;
+	border-color: #0B4C5F;
+	border-width: 1px 3px;
+	font-size: 50px;
+	margin-right: 400px;
+	margin-left: 400px;
+	text-align: center;
+	}
+
+#id2
+{
+	margin-top: -13px;
+}
+
+#id3
+{
+	margin-top: -13px;
+}
+
+#myCanvas {
+	background-color: white;
+}
